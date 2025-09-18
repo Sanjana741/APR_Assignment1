@@ -56,6 +56,12 @@ The model classifies individuals into:
 
 ---
 
+##  Output
+![Confusion Matrix](confusion_matrix.png)
+
+
+---
+
 ##  Key Insights
 - Logistic Regression is effective and interpretable as a baseline model.  
 - **Important predictors:** chest pain type, maximum heart rate, and ST depression.  
