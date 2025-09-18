@@ -80,4 +80,3 @@ The model classifies individuals into:
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/Sanjana741/APR_Assignment1.git
-cd heart-disease-prediction
