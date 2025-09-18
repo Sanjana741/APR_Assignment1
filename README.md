@@ -59,6 +59,12 @@ The model classifies individuals into:
 ##  Output
 ![Confusion Matrix](confusion_matrix.png)
 
+![Correlation Matrix](correlation_matrix.png)
+
+![](output1.png)
+
+![](output2.png)
+
 
 ---
 
